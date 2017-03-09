@@ -1,0 +1,17 @@
+% File 'data'
+
+%% papers: {1,..., 5}
+%% referees: {1,...,3}
+
+qualified(1,1).
+qualified(1,2).
+qualified(1,3).
+qualified(1,4).
+qualified(1,5).
+qualified(2,1).
+qualified(2,3).
+qualified(2,4).
+qualified(2,5).
+qualified(3,1).
+qualified(3,2).
+qualified(3,5).

@@ -1,0 +1,6 @@
+% File 'program'
+
+paper(1..n) .
+referee(1..m) .
+
+
